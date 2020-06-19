@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FeetInches
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\n\ This\ method\ run()\ allows\ user\ to\ input\ one's\ feet\ and\ inches\ and\ \n\ compare\ it\ to\ another\ measurement\ of\ feet\ and\ inches\ and\ determine,\ based\ on\ the\ operation,\n\ whether\ the\ comparison\ is\ true/false\n\ It\ uses\ try\ and\ catch\n
+numComments=3
